@@ -1,2 +1,2 @@
-# Nonlinear-Optimization Solver
-This small project show how onlinear-Optimization works with only hunderds lines of code.
+# Nano Nonlinear-Optimization Solver
+This mini project implements prototype of nonlinear solver with only hunderds lines of code.
